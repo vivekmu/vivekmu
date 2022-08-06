@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivekmu
-- 👀 I’m interested in Linux,Pthon,Devops
-- 🌱 I’m currently learning Python & Devops
+- 👀 I’m interested in Linux,Python,Django,Angular,Devops
+- 🌱 I’m currently learning Angular & Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vivekshawn555@gmail.com , https://discord.gg/ENx5eakpA5
 
