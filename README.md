@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivekmu
 - 👀 I’m interested in Linux,Python,Docker,Kubernetes,Terraform
-- 🌱 I’m currently learning AWS
+- 🌱 Proficient in Kubernetes, Helm, Terraform, AWS and Apache Airflow
 - 💞️ I’m looking to collaborate on Devops...
 - 📫 How to reach me vivekshawn555@gmail.com , https://www.linkedin.com/in/vivek-murugesan-63460b59/ , https://discord.gg/ENx5eakpA5
 
