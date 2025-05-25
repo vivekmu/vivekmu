@@ -8,8 +8,6 @@ Having experience across manufacturing, finance, and enterprise platforms, I've 
 
 ## 📫 Connect with me
 
-## 📫 Contact Me
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekshawn555@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-murugesan-63460b59/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ENx5eakpA5)
