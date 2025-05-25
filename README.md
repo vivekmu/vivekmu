@@ -1,16 +1,16 @@
 # 👋 Hey there, I'm Vivek Murugesan!
 
-I'm a solution-driven engineer with a passion for building scalable systems, taming complex Kubernetes environments, and automating everything from CI/CD pipelines to cloud infrastructure provisioning.
+I'm a solution-driven engineer with a passion for building scalable systems, simplifying complex Kubernetes environments and automate cloud infrastructure provisioning using Terraform and CI/CD pipelines.
 
-With 11+ years of experience across manufacturing, finance, and enterprise platforms, I've worked with teams navigating container orchestration chaos, infrastructure drift, and fragile deployments. My mission? Deliver stability, performance, and elegance.
+Having experience across manufacturing, finance, and enterprise platforms, I've worked with teams navigating container orchestration chaos, infrastructure drift, and fragile deployments. My mission? Deliver stability, performance, and elegance.
 
 ---
 
 ## 🚀 What I Do
 
-- 🌐 I responsible for operations at Kubernetes clusters (Rancher) at production scale.
+- 🌐 I responsible for operations on Kubernetes clusters (Rancher) at production scale.
 - 🧩 I build GitOps pipelines using Argo CD, Helm, Jenkins, and Terraform.
-- 🔍 I set up monitoring and observability using Grafana, Kibana and ELK.
+- 🔍 I set up monitoring and observability using Kibana and ELK.
 - 🧠 I streamline operational tasks using Python, Shell, and PowerShell scripts.
 - 🛠️ I troubleshoot and resolve escalations using ITIL best practices.
 
@@ -50,7 +50,7 @@ GitOps • ITIL Incident Management • CI/CD Automation • On-call Live Site S
 
 
 
-- 📫 How to reach me vivekshawn555@gmail.com , https://www.linkedin.com/in/vivek-murugesan-63460b59/ , https://discord.gg/ENx5eakpA5
+- 📫 How to reach me Gmail - vivekshawn555@gmail.com , LinkedIn - https://www.linkedin.com/in/vivek-murugesan-63460b59/ , Discord - https://discord.gg/ENx5eakpA5
 
 <!---
 vivekmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
