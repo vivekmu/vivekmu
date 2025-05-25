@@ -6,6 +6,15 @@ Having experience across manufacturing, finance, and enterprise platforms, I've 
 
 ---
 
+## 📫 Connect with me
+
+## 📫 Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekshawn555@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-murugesan-63460b59/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ENx5eakpA5)
+
+
 ## 🚀 What I Do
 
 - 🌐 I responsible for operations on Kubernetes clusters (Rancher) at production scale.
@@ -48,14 +57,6 @@ GitOps • ITIL Incident Management • CI/CD Automation • On-call Live Site S
 - 🛠️ Migrated legacy PowerShell systems to Python-based automation.
 - 🧪 Designed smoke tests and health checks for Rancher & Argo CD using scripts.
 - 🚨 Created dashboards at ELK for application & infra post validation check.
-
----
-
-## 📫 How to reach me
-
-- Gmail - vivekshawn555@gmail.com
-- LinkedIn - https://www.linkedin.com/in/vivek-murugesan-63460b59/
-- Discord - https://discord.gg/ENx5eakpA5
 
 <!---
 vivekmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
