@@ -36,6 +36,7 @@ GitOps • ITIL Incident Management • CI/CD Automation • On-call Live Site S
 ---
 
 ## 🧠 Learning & Interests
+
 - Building self-healing Kubernetes workloads
 - Experimenting with lightweight AI ops pipelines
 
@@ -48,9 +49,13 @@ GitOps • ITIL Incident Management • CI/CD Automation • On-call Live Site S
 - 🧪 Designed smoke tests and health checks for Rancher & Argo CD using scripts.
 - 🚨 Created dashboards at ELK for application & infra post validation check.
 
+---
 
+## 📫 How to reach me
 
-- 📫 How to reach me Gmail - vivekshawn555@gmail.com , LinkedIn - https://www.linkedin.com/in/vivek-murugesan-63460b59/ , Discord - https://discord.gg/ENx5eakpA5
+- Gmail - vivekshawn555@gmail.com
+- LinkedIn - https://www.linkedin.com/in/vivek-murugesan-63460b59/
+- Discord - https://discord.gg/ENx5eakpA5
 
 <!---
 vivekmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
